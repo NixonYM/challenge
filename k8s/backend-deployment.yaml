@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: jasondanae/backend:latest
+        image: jasondanae/backend:v3
         ports:
         - containerPort: 8080
